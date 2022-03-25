@@ -14,7 +14,7 @@ int main()
 	{
 		printf("Child process pid: %d\n",getpid());
 
-		execl("/home/mahima/mahima/einfochips/Final_project/linux_internals_assignment/process_assignment/7_table7", "./7_table7", 0);		
+		execl("/home/madhuri/Final_project/linux_internals_assignment/process_assignment/7_table7", "./7_table7", 0);		
 	}
 	else
 	{
